@@ -37,6 +37,7 @@ S3. 게임 내에서 부자연스러운 연출이 없어야 한다.
  RespawnGameZone에서는 상점에 접근 가능
  RespawnGameZone에서는 다른 플레이어들과 충돌 및 상호작용이 불가능하며 서로 보이지 않음
  RespawnGameZone에서는 문을 제외한 다른 오브젝트들과 상호작용 불가능
+ GameZone의 어떤 오브젝트에서 변화가 발생한 경우 RespawnGameZone의 해당하는 오브젝트에서도 동일한 변화가 발생 (예 : 문 여닫기, 자원 수집 등)
  RespawnGameZone에서는 GameZone에서의 플레이어의 위치에 발자국이 생성됨 (인간 : 녹색, 괴물 : 적색)
  
 1.4 자원
